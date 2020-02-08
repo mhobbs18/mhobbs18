@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PhD student in computational mechanics in the Department of Engineering at Cambridge University. Focussing on peridynamics. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mch61@cam.ac.uk](mailto:mch61@cam.ac.uk)
