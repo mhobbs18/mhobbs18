@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Speeding up Peridynamic simulation code with space-filling curves
+title: Speeding up peridynamic simulation code with space-filling curves
 ---
 
